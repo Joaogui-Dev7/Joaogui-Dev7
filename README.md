@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is João Guilherme, I'm brazilian, I'm studing at liberato and I also studing programming at Residência FullStack by Instituto Eldorado in colaboration with Petrobras.<br>I aspire to be a developer in the future and work in contryside. My dream is to be a Game developer in a big game company.
+Hi! My name is João Guilherme, I'm brazilian, I'm studing at Liberato and I also studing programming at Residência FullStack by Instituto Eldorado in colaboration with Petrobras.<br>I aspire to be a developer in the future and work in contryside. My dream is to be a Game developer and work in a big game company.
 
 
 ## 🌐 Socials:
